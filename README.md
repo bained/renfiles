@@ -26,3 +26,6 @@ dir /b /s | renfiles -s "search_string" -r "replace_string"
 renfiles -s "search_string" -r "replace_string" -f "path_to_file"
 cat list_files.txt | renfiles -s "search_string" -r "replace_string"
 ```
+
+See a short video on how to use the tool on my blog:
+[blog.nediko.info](http://blog.nediko.info/renfiles-rename-files-command-line-tool-for-windows)
